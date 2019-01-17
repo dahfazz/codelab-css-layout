@@ -2,5 +2,4 @@
 
 ## templates
 
-- [ ] Header / Sidebar / Footer / Page
-- [ ] Header fixe / 3 colonnes / footer
+- https://codepen.io/dahfazz/pen/NeVwPg
