@@ -58,3 +58,11 @@ body {
   border-color: #222;
   border-radius: 5px;
 }
+
+.menu:not(.visible) + .btn .btn_face.close {
+  display: none;
+}
+
+.menu.visible + .btn .btn_face.open {
+  display: none;
+}
