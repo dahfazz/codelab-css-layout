@@ -22,6 +22,8 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 - `vh` and `vw` units represents the **v**iewport **h**eight and **v**iewport **w**idth, wharever content is.
 
+<br>
+
 <sup>\*</sup> element which property `position` is defined (whatever the value is)
 
 <br>
