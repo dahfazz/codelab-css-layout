@@ -16,6 +16,8 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 ## Layouts
 
+- [Flexbox demo](https://dahfazz.github.io/codelab-devfestParis/flexbox-demo.html)
+
 - [Template #1](https://dahfazz.github.io/codelab-devfestParis/template-1/)
 
 - [Template #2](https://dahfazz.github.io/codelab-devfestParis/template-2/)
