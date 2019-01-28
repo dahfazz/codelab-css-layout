@@ -16,11 +16,11 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 ## Layouts
 
-- [Template #1](template-1/)
+- [Template #1](https://dahfazz.github.io/codelab-devfestParis/template-1/)
 
-- [Template #2](template-2/)
+- [Template #2](https://dahfazz.github.io/codelab-devfestParis/template-2/)
 
-- [Template #3](template-3/)
+- [Template #3](https://dahfazz.github.io/codelab-devfestParis/template-3/)
 
 ## Things to remember
 
