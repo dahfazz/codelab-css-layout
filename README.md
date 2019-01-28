@@ -22,6 +22,8 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 - [Template #3](https://dahfazz.github.io/codelab-devfestParis/template-3/)
 
+<br>
+
 ## Things to remember
 
 - `z-index` only apply on positionned<sup>\*</sup> elements.
