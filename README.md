@@ -14,6 +14,14 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 <br>
 
+## Layouts
+
+- [Template #1](template-1/)
+
+- [Template #2](template-2/)
+
+- [Template #3](template-3/)
+
 ## Things to remember
 
 - `z-index` only apply on positionned<sup>\*</sup> elements.
