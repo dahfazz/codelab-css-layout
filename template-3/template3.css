@@ -1,5 +1,5 @@
 body {
-  background: yellow;
+  background-color: bisque;
   font-family: "Arial", "sans-serif";
 }
 
@@ -45,25 +45,42 @@ body {
   left: 0;
   top: 0;
   margin: auto;
-  width: 50vw;
+  width: 60vw;
   height: 30vh;
-  background: #333;
+  background-color: coral;
   color: white;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.5);
-  z-index: 0;
+  box-shadow: 0 0 0 99999px rgba(34, 34, 34, 0.6);
+  border-radius: 10px;
+  z-index: 3;
 }
 
 .modal_btn {
   border: 2px solid white;
-  color: white;
-  background: #666;
+  border-radius: 5px;
+  color: #222;
+  background: bisque;
   font-size: 3rem;
-  height: 5rem;
+  min-height: 5rem;
   width: 80%;
   display: block;
+}
+
+.cookie-monster {
+  display: inline-block;
+  animation: blink 0.5s ease-in-out 0s infinite;
+}
+
+@keyframes blink {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.2);
+  }
 }
