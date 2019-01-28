@@ -6,6 +6,14 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 <br>
 
+## Hosts
+
+- 😺 &nbsp; Fanny Weisenburger [@RoxySka](https://twitter.com/RoxySka)
+
+- 🐶 &nbsp; Fabien Zibi [@\_faz](https://twitter.com/_faz)
+
+<br>
+
 ## Things to remember
 
 - `z-index` only apply on positionned<sup>\*</sup> elements.
