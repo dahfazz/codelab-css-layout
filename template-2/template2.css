@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  background: yellow;
+  background-color: bisque;
 }
 
 .menu {
-  background: magenta;
+  background-color: coral;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -21,6 +21,7 @@ body {
   .menu {
     height: 100vh;
     width: 10vh;
+    min-width: 5rem;
   }
 
   .menu.visible {
@@ -30,7 +31,7 @@ body {
 }
 
 .content {
-  color: blue;
+  color: darkslategrey;
   font-size: 2rem;
   width: 60vw;
   margin: 2rem auto;
@@ -43,6 +44,9 @@ body {
   left: 1rem;
   width: 3rem;
   height: 3rem;
-  background: blue;
-  z-index: 10;
+  font-size: 2rem;
+  line-height: 3rem;
+  background-color: #222;
+  border-color: #222;
+  border-radius: 5px;
 }
