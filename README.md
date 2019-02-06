@@ -6,6 +6,10 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 <br>
 
+Slides : http://bit.ly/devfestlayoutslides
+
+<br>
+
 ## Hosts
 
 - 😺 &nbsp; Fanny Weisenburger [@RoxySka](https://twitter.com/RoxySka)
@@ -14,7 +18,19 @@ Every codelab exercice supports are available in `/template-*` folder.
 
 <br>
 
-## Layouts
+## Démos
+
+- [Unités de mesure](https://codepen.io/dahfazz/pen/exEZzV)
+
+- [Positionnements](https://codepen.io/dahfazz/pen/bzrpvW)
+
+- [Responsive](https://codepen.io/dahfazz/pen/RvZaea)
+
+- [Flexbox](https://codepen.io/dahfazz/pen/mvMPZO)
+
+<br>
+
+## Exercices
 
 - [Flexbox demo](https://dahfazz.github.io/codelab-devfestParis/flexbox-demo.html)
 
