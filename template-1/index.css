@@ -16,6 +16,10 @@ header {
   color: white;
 }
 
+header > h1 {
+  text-align: center;
+}
+
 .header_input {
   font-size: 1rem;
   background: transparent;
@@ -34,8 +38,14 @@ header {
 }
 
 nav {
-  width: 320px;
+  width: 80px;
   background-color: #00dbd6;
+}
+
+@media (min-width: 768px) {
+  nav {
+    width: 320px;
+  }
 }
 
 main {
@@ -44,17 +54,18 @@ main {
 }
 
 .content {
-  display: flex;
   border-bottom: 1px solid #ccc;
-  padding: 2rem 0;
+  padding: 2rem 1rem;
 }
 
 .illustration {
   height: 100px;
+  float: left;
 }
 
 .img-container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   border-bottom: 1px solid #ccc;
@@ -81,4 +92,31 @@ footer .logo {
   margin: 0 10px;
   color: white;
   font-size: 1.3rem;
+}
+
+.modal {
+  position: fixed;
+  width: 80vw;
+  height: 20vh;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2rem;
+  background-color: white;
+  text-align: center;
+  box-shadow: 0 0 10px 10px magenta;
+  display: none;
+}
+
+.modal.visible {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .modal {
+    width: 50vw;
+    height: 50vh;
+  }
 }
