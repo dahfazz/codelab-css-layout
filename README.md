@@ -1,12 +1,10 @@
 # Master your layouts
 
-## Devfest Paris 2019
-
 Every codelab exercice supports are available in `/template-*` folder.
 
 <br>
 
-Slides : http://bit.ly/devfestlayoutslides
+Slides : http://bit.ly/codelab-css-devoxx-2019
 
 <br>
 
@@ -30,15 +28,9 @@ Slides : http://bit.ly/devfestlayoutslides
 
 <br>
 
-## Exercices
+## Exercice
 
-- [Flexbox demo](https://dahfazz.github.io/codelab-devfestParis/flexbox-demo.html)
-
-- [Template #1](https://dahfazz.github.io/codelab-devfestParis/template-1/)
-
-- [Template #2](https://dahfazz.github.io/codelab-devfestParis/template-2/)
-
-- [Template #3](https://dahfazz.github.io/codelab-devfestParis/template-3/)
+- [Exercice](https://dahfazz.github.io/codelab-css-layout/template-1/)
 
 <br>
 
